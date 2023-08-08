@@ -1,0 +1,45 @@
+{
+  desktop: [
+    {
+      "type": "personalizedFeeCard",
+      "analyticsTag": "personalized Fee Card-June",
+      "meta": {
+        "bannerLinks": {
+          "feesUnreached": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Web5.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Web5.png"
+          },
+          "feesReached": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png"
+          }
+        },
+        "bannerDates": {
+          "offerStartDate": "2023-07-25T18:30:00+00:00",
+          "offerEndDate": "2023-08-09T18:30:00+00:00",
+          "targetFeesStartDate": "2023-06-30T18:30:00+00:00",
+          "targetFeesEndDate": "2023-07-15T18:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://www.delta.exchange/blog/cashback-offer"
+    },
+  ],
+  mobile: [
+    {
+        "type": "Decode_Delta_Cash",
+        "analyticsTag": "Decode_Delta_Cash",
+        "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
+        "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+        "openInNewTab": true,
+        "theme": "dark",
+      },
+      {
+        "type": "Decode_Delta_Cash",
+        "analyticsTag": "Decode_Delta_Cash",
+        "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
+        "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+        "openInNewTab": true,
+        "theme": "light",
+      }
+  ],
+}
