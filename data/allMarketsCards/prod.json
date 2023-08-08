@@ -1,5 +1,5 @@
 {
-  desktop: [
+  "desktop": [
     {
       "type": "personalizedFeeCard",
       "analyticsTag": "personalized Fee Card-June",
@@ -24,7 +24,7 @@
       "redirectURL": "https://www.delta.exchange/blog/cashback-offer"
     },
   ],
-  mobile: [
+  "mobile": [
     {
         "type": "Decode_Delta_Cash",
         "analyticsTag": "Decode_Delta_Cash",
