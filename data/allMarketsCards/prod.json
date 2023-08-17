@@ -15,22 +15,6 @@
       "redirectURL": "https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
       "openInNewTab": true,
       "indianExchangeCard": false
-    },
-    {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://images.unsplash.com/photo-1498579687545-d5a4fffb0a9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false
-    },
-    {
-      "type": "Decode_Delta_Cash",
-      "analyticsTag": "Decode_Delta_Cash",
-      "imageURL": "https://images.unsplash.com/photo-1525785967371-87ba44b3e6cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80",
-      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
-      "openInNewTab": true,
-      "indianExchangeCard": false
     }
   ],
   "mobile": [
