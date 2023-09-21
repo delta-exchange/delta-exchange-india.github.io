@@ -1,10 +1,27 @@
 {
-  "desktop": [],
+  "desktop": [
+    {
+      "type": "optionsSpreads",
+      "analyticsTag": "Options Spreads",
+      "imageURL": "https://images.freeimages.com/image/previews/879/savage-wolf-logo-kit-5690031.jpg",
+      "redirectURL": "https://www.delta.exchange/blog/options-spreads",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
+      "type": "automatedTradingGuide",
+      "analyticsTag": "Automated Trading Guide",
+      "imageURL": "https://images.unsplash.com/photo-1613431812949-77b3351bb23d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "redirectURL": "https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    }
+  ],
   "mobile": [
     {
         "type": "Decode_Delta_Cash",
         "analyticsTag": "Decode_Delta_Cash",
-        "imageURL": "https://freehindidesign.com/wp-content/uploads/2022/04/Mobile-repairing-and-mobile-shop-front-back-business-card-template-250422-scaled.webp",
+        "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
         "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
         "openInNewTab": true,
         "theme": "dark"
@@ -13,7 +30,7 @@
         "type": "Decode_Delta_Cash",
         "analyticsTag": "Decode_Delta_Cash",
         "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
-        "redirectURL": "https://india.delta.exchange/",
+        "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
         "openInNewTab": true,
         "theme": "light"
       }
