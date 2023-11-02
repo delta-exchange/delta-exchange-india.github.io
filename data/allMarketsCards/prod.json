@@ -230,14 +230,6 @@
       "indianExchangeCard": false
     },
     {
-      "type": "optionsSpreads",
-      "analyticsTag": "Options Spreads",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Web3.png",
-      "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
-      "openInNewTab": false,
-      "indianExchangeCard": false
-    },
-    {
       "type": "Withdrawal to bank",
       "analyticsTag": "Withdrawal to bank",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Web.png",
