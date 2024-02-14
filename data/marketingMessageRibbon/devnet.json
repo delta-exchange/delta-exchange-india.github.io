@@ -1,0 +1,9 @@
+[
+    {
+      "name": "Delta India test",
+      "type": "information",
+      "showWhenLogin": "postLogin",
+      "message":"Test strip for delta india",
+      "landingPathnames": null
+    }
+  ]
