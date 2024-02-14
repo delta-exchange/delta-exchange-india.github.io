@@ -1,9 +1,9 @@
 [
     {
-      "name": "Delta India test",
-      "type": "information",
-      "showWhenLogin": "postLogin",
-      "message":"Test strip for delta india",
+      "name": "betaTesting",
+      "type": "error",
+      "remainVisible": true,
+      "message":"We are currently in invite only closed Beta. Withdrawals will be processed only after 10/3/2024.Trading is enabled only for invited users only",
       "landingPathnames": null
     }
   ]
