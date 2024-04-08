@@ -1,0 +1,14 @@
+{
+  "withdrawalMaintenance": {
+    "maintenanceDetails": {
+      "startTime": "2024-04-08T06:45:04.075Z",
+      "endTime": "2024-04-08T18:45:04.075Z"
+    }
+  },
+  "depositMaintenance": {
+    "maintenanceDetails": {
+      "startTime": "2024-04-08T06:45:04.075Z",
+      "endTime": "2024-04-08T18:45:04.075Z"
+    }
+  }
+}
