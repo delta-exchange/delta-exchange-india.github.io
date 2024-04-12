@@ -1,8 +1,10 @@
 [
   {
-    "name": "Alt coins launch",
+    "name": "IMPS Deposit Issue",
     "type": "information",
-    "message": "Alt coins  (DOGE, SOL etc) launching on Monday.",
-    "landingPathnames": null
+    "message": "IMPS is facing intermittent connectivity issues. Some deposits might fail because of that. If your deposit fails please try again in 10 mins.",
+    "landingPathnames": null,
+    "webAppPathnames": ["/app/account/deposit"],
+    "showWhenLogin": "postLogin",
   }
 ]
