@@ -4,7 +4,9 @@
     "type": "information",
     "message": "IMPS is facing intermittent connectivity issues. Some deposits might fail because of that. If your deposit fails please try again in 10 mins.",
     "landingPathnames": null,
-    "webAppPathnames": ["/app/account/deposit"],
-    "showWhenLogin": "postLogin",
+    "webAppPathnames": [
+      "/app/account/deposit"
+    ],
+    "showWhenLogin": "postLogin"
   }
 ]
