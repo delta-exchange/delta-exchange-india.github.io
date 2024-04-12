@@ -1,0 +1,20 @@
+{
+  "mobile": [
+    {
+      "type": "Pre_Login_Card",
+      "analyticsTag": "Pre_Login_Card",
+      "imageURL": "https://static.delta.exchange/common/images/banners/Trade-Crypto-INR.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/signup",
+      "openInNewTab": true,
+      "theme": "indian_dark"
+    },
+    {
+      "type": "Pre_Login_Card",
+      "analyticsTag": "Pre_Login_Card",
+      "imageURL": "https://static.delta.exchange/common/images/banners/Trade-Crypto-INR.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/signup",
+      "openInNewTab": true,
+      "theme": "indian_light"
+    }
+  ]
+}
