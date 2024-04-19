@@ -1,23 +1,4 @@
 {
   "desktop": [],
-  "mobile": [
-    {
-      "type": "Trade_Crypto_F&O_Directly_With_INR",
-      "analyticsTag": "Trade Crypto F&O directly with INR",
-      "imageURL": "https://static.delta.exchange/common/images/banners/Trade-Crypto-INR.png",
-      "redirectURL": "https://india.delta.exchange/app/signup",
-      "openInNewTab": true,
-      "theme": "indian_dark",
-      "showWhenLogin": "preLogin"
-    },
-    {
-      "type": "Trade_Crypto_F&O_Directly_With_INR",
-      "analyticsTag": "Trade Crypto F&O directly with INR",
-      "imageURL": "https://static.delta.exchange/common/images/banners/Trade-Crypto-INR.png",
-      "redirectURL": "https://india.delta.exchange/app/signup",
-      "openInNewTab": true,
-      "theme": "indian_light",
-      "showWhenLogin": "preLogin"
-    }
-  ]
+  "mobile": []
 }
