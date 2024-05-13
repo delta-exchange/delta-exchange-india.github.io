@@ -1,23 +1,82 @@
 {
-  "desktop": [],
-  "mobile": [
+  "desktop": [
     {
-      "type": "Trade_Crypto_F&O_Directly_With_INR",
-      "analyticsTag": "Trade Crypto F&O directly with INR",
-      "imageURL": "https://static.delta.exchange/common/images/banners/Trade-Crypto-INR.png",
-      "redirectURL": "https://india.delta.exchange/app/signup",
-      "openInNewTab": true,
-      "theme": "indian_dark",
-      "showWhenLogin": "preLogin"
+      "type": "milestoneOffer",
+      "analyticsTag": "30 Day Milestone",
+      "meta": {
+        "bannerLinks": {
+          "dark": {
+            "signUp": "https://static.delta.exchange/web/Markets-Page/Signup_dei_web.png?updatedAt=1715582317818",
+            "kycMilestone": "https://static.delta.exchange/web/Markets-Page/KYC_dei_web.png?updatedAt=1715582317723",
+            "firstDepositMilestone": "https://static.delta.exchange/web/Markets-Page/depositmilestone_Dei_web.png?updatedAt=1715582317821",
+            "sevenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/7daymilestone_dei_web.png?updatedAt=1715582317713",
+            "fifteenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/15daymilestone_dei_web.png?updatedAt=1715582317755",
+            "thirtyTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/30daymilestone_dei_web.png?updatedAt=1715582317814"
+          },
+          "light": {
+            "signUp": "https://static.delta.exchange/web/Markets-Page/Signup_dei_web.png?updatedAt=1715582317818",
+            "kycMilestone": "https://static.delta.exchange/web/Markets-Page/KYC_dei_web.png?updatedAt=1715582317723",
+            "firstDepositMilestone": "https://static.delta.exchange/web/Markets-Page/depositmilestone_Dei_web.png?updatedAt=1715582317821",
+            "sevenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/7daymilestone_dei_web.png?updatedAt=1715582317713",
+            "fifteenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/15daymilestone_dei_web.png?updatedAt=1715582317755",
+            "thirtyTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/30daymilestone_dei_web.png?updatedAt=1715582317814"
+          }
+        }
+      },
+      "indianExchangeCard": true
     },
     {
-      "type": "Trade_Crypto_F&O_Directly_With_INR",
-      "analyticsTag": "Trade Crypto F&O directly with INR",
-      "imageURL": "https://static.delta.exchange/common/images/banners/Trade-Crypto-INR.png",
-      "redirectURL": "https://india.delta.exchange/app/signup",
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/dc_dei_web.png?updatedAt=1715582317747",
+      "redirectURL": "https://deltaexchangeindia.freshdesk.com/support/solutions/articles/80001141198-decode-delta-cash",
       "openInNewTab": true,
-      "theme": "indian_light",
-      "showWhenLogin": "preLogin"
+      "indianExchangeCard": true
+    }
+  ],
+  "mobile": [
+    {
+      "type": "milestoneOffer",
+      "analyticsTag": "30 Day Milestone",
+      "meta": {
+        "bannerLinks": {
+          "dark": {
+            "signUp": "https://static.delta.exchange/web/Markets-Page/signup_dei_dark.png?updatedAt=1715582341785",
+            "kycMilestone": "https://static.delta.exchange/web/Markets-Page/kyc_dei_dark.png?updatedAt=1715582341745",
+            "firstDepositMilestone": "https://static.delta.exchange/web/Markets-Page/deposit_dei_dark.png?updatedAt=1715583261931",
+            "sevenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/7daymilestone_dei_dark.png?updatedAt=1715582339195",
+            "fifteenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/15daymilestone_dei_dark.png?updatedAt=1715582339284",
+            "thirtyTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/30daymilestone_dei_dark.png?updatedAt=1715582339277"
+          },
+          "light": {
+            "signUp": "https://static.delta.exchange/web/Markets-Page/signup_dei_light.png?updatedAt=1715582339268",
+            "kycMilestone": "https://static.delta.exchange/web/Markets-Page/kyc_dei_light.png?updatedAt=1715582339249",
+            "firstDepositMilestone": "https://static.delta.exchange/web/Markets-Page/deposit_dei_light.png?updatedAt=1715582339152",
+            "sevenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/7daymilestone_dei_light.png?updatedAt=1715582339137",
+            "fifteenTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/15daymilestone_dei_light.png?updatedAt=1715582339175",
+            "thirtyTradeDaysMilestone": "https://static.delta.exchange/web/Markets-Page/30daymilestone_dei_light.png?updatedAt=1715582339219"
+          }
+        }
+      },
+      "indianExchangeCard": true
+    },
+    {
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/dc_dei_dark.png?updatedAt=1715582342149",
+      "redirectURL": "https://deltaexchangeindia.freshdesk.com/support/solutions/articles/80001141198-decode-delta-cash",
+      "openInNewTab": true,
+      "theme": "dark",
+      "indianExchangeCard": true
+    },
+    {
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/dc_dei_light.png?updatedAt=1715582342291",
+      "redirectURL": "https://deltaexchangeindia.freshdesk.com/support/solutions/articles/80001141198-decode-delta-cash",
+      "openInNewTab": true,
+      "theme": "light",
+      "indianExchangeCard": true
     }
   ]
 }
