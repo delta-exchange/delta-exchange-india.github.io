@@ -1,15 +1,15 @@
 {
   "withdrawalMaintenance": {
     "maintenanceDetails": {
-      "startTime": "2024-05-14T20:30:00Z",
-      "endTime": "2024-05-14T21:30:00Z",
+      "startTime": "2024-05-27T18:31:00Z",
+      "endTime": "2024-05-27T22:30:00Z",
       "showBanner": true
     }
   },
   "depositMaintenance": {
     "maintenanceDetails": {
-      "startTime": "2024-05-14T20:30:00Z",
-      "endTime": "2024-05-14T21:30:00Z",
+      "startTime": "2024-05-27T18:31:00Z",
+      "endTime": "2024-05-27T22:30:00Z",
       "showBanner": true
     }
   }
