@@ -10,7 +10,7 @@
     "maintenanceDetails": {
       "startTime": "2024-06-01T21:45:00Z",
       "endTime": "2024-06-01T22:15:00Z",
-      "showBanner": false
+      "showBanner": true
     }
   }
 }
