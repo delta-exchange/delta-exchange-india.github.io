@@ -29,7 +29,7 @@
       "type": "Signal Trading",
       "analyticsTag": "Signal Trading",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_web.png?updatedAt=1717486590689",
-      "redirectURL": "/account/signal_trading",
+      "redirectURL": "/app/account/signal_trading",
       "openInNewTab": false,
       "indianExchangeCard": true
     },
@@ -72,7 +72,7 @@
       "type": "Signal Trading",
       "analyticsTag": "Signal Trading",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_dark.png?updatedAt=1717486600724",
-      "redirectURL": "/account/signal_trading",
+      "redirectURL": "/app/account/signal_trading",
       "openInNewTab": false,
       "theme": "indian_dark",
       "indianExchangeCard": true
@@ -81,7 +81,7 @@
       "type": "Signal Trading",
       "analyticsTag": "Signal Trading",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_light.png?updatedAt=1717486600566",
-      "redirectURL": "/account/signal_trading",
+      "redirectURL": "/app/account/signal_trading",
       "openInNewTab": false,
       "theme": "indian_light",
       "indianExchangeCard": true
