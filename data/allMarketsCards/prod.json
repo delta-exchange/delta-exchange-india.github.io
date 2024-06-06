@@ -34,6 +34,14 @@
       "indianExchangeCard": true
     },
     {
+      "type": "Refer_Earn",
+      "analyticsTag": "Refer_Earn",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/RE_dei_web.png?updatedAt=1717674618788",
+      "redirectURL": "https://india.delta.exchange/referral-program",
+      "openInNewTab": false,
+      "indianExchangeCard": true
+    },
+    {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/dc_dei_web.png?updatedAt=1715582317747",
@@ -82,6 +90,24 @@
       "analyticsTag": "Signal Trading",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_light.png?updatedAt=1717486600566",
       "redirectURL": "/app/account/signal_trading",
+      "openInNewTab": false,
+      "theme": "indian_light",
+      "indianExchangeCard": true
+    },
+    {
+      "type": "Refer_Earn",
+      "analyticsTag": "Refer_Earn",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/RE_dei_dark.png?updatedAt=1717674618668",
+      "redirectURL": "https://india.delta.exchange/referral-program",
+      "openInNewTab": false,
+      "theme": "indian_dark",
+      "indianExchangeCard": true
+    },
+    {
+      "type": "Refer_Earn",
+      "analyticsTag": "Refer_Earn",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/RE_dei_light.png?updatedAt=1717674618696",
+      "redirectURL": "https://india.delta.exchange/referral-program",
       "openInNewTab": false,
       "theme": "indian_light",
       "indianExchangeCard": true
