@@ -1,12 +1,15 @@
 [
   {
-    "name": "IMPS Deposit Issue",
-    "type": "information",
-    "message": "IMPS is facing intermittent connectivity issues. Some deposits might fail because of that. If your deposit fails please try again in 10 mins.",
+    "name": "paymentPartnerDown22June",
+    "type": "warn",
+    "heading": "Notice:",
+    "message": " Our payment partner will undergo maintenance on 22nd June 2024 from 12am to 3am. Deposits will be unavailable during this time",
     "landingPathnames": null,
-    "webAppPathnames": [
-      "/app/account/deposit"
-    ],
-    "showWhenLogin": "postLogin"
+    "showWhenLogin": "postLogin",
+    "remainVisible": true,
+    "displayTime":{
+      "start": "2024-06-21T09:30:00Z",
+      "end": "2024-06-21T21:30:00Z"
+    }
   }
 ]
