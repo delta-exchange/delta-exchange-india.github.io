@@ -2,12 +2,12 @@
   {
     "name": "paymentPartnerDown22June",
     "type": "warn",
-    "heading": "Notice:",
-    "message": " Our payment partner will undergo maintenance on 22nd June 2024 from 12am to 3am. Deposits will be unavailable during this time",
+    "heading": "Notice",
+    "message": " Our payment partner will undergo maintenance on 22 June 2024 from 12am to 3am. Deposits will be unavailable during this time",
     "landingPathnames": null,
     "showWhenLogin": "postLogin",
     "remainVisible": true,
-    "displayTime":{
+    "displayTime": {
       "start": "2024-06-21T09:30:00Z",
       "end": "2024-06-21T21:30:00Z"
     }
