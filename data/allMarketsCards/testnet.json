@@ -26,13 +26,21 @@
       "indianExchangeCard": true
     },
     {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/common/images/banners/Account-Security-Web.png?updatedAt=1703067684081",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "Signal Trading",
       "analyticsTag": "Signal Trading",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_web.png?updatedAt=1717486590689",
       "redirectURL": "/app/account/signal_trading",
       "openInNewTab": false,
-      "indianExchangeCard": true,
-      "showWhenLogin": true
+      "indianExchangeCard": true
     },
     {
       "type": "Refer_Earn",
@@ -76,6 +84,26 @@
         }
       },
       "indianExchangeCard": true
+    },
+    {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/common/images/banners/Account-Security-Dark.png?updatedAt=1703067684055",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "theme": "indian_dark",
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/common/images/banners/Account-Security-Light.png?updatedAt=1703067684011",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "theme": "indian_light",
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "Signal Trading",
