@@ -40,7 +40,8 @@
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_web.png?updatedAt=1717486590689",
       "redirectURL": "/app/account/signal_trading",
       "openInNewTab": false,
-      "indianExchangeCard": true
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "Refer_Earn",
