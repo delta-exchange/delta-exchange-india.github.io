@@ -31,7 +31,17 @@
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_web.png?updatedAt=1717486590689",
       "redirectURL": "/app/account/signal_trading",
       "openInNewTab": false,
-      "indianExchangeCard": true
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
+      "type": "Signal Trading",
+      "analyticsTag": "Signal Trading",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_web.png?updatedAt=1717486590689",
+      "redirectURL": "https://deltaexchangeindia.freshdesk.com/support/solutions/articles/80001141030-tutorial-trading-view-automation-on-delta-exchange",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "preLogin"
     },
     {
       "type": "Refer_Earn",
