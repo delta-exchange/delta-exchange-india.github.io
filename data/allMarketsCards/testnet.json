@@ -1,6 +1,15 @@
 {
   "desktop": [
     {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/Phone_Web.png?updatedAt=1719391068688",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -24,15 +33,6 @@
         }
       },
       "indianExchangeCard": true
-    },
-    {
-      "type": "addPhoneNumber",
-      "analyticsTag": "addPhoneNumber",
-      "imageURL": "https://static.delta.exchange/web/Markets-Page/Phone_Web.png?updatedAt=1719391068688",
-      "redirectURL": "/app/account/profile",
-      "openInNewTab": false,
-      "indianExchangeCard": true,
-      "showWhenLogin": "postLogin"
     },
     {
       "type": "Signal Trading",

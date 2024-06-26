@@ -1,6 +1,15 @@
 {
   "desktop": [
     {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/Phone_Web.png?updatedAt=1719391068688",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -61,6 +70,26 @@
     }
   ],
   "mobile": [
+    {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/Phone_mobile_dark.png?updatedAt=1719384661467",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "theme": "indian_dark",
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
+      "type": "addPhoneNumber",
+      "analyticsTag": "addPhoneNumber",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/Phone_mobile_light.png?updatedAt=1719384661455",
+      "redirectURL": "/app/account/profile",
+      "openInNewTab": false,
+      "theme": "indian_light",
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
