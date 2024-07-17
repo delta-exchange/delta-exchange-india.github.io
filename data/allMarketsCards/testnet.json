@@ -47,7 +47,7 @@
       "type": "Refer_Earn",
       "analyticsTag": "Refer_Earn",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/RE_dei_web.png?updatedAt=1717674618788",
-      "redirectURL": "https://india.delta.exchange/referral-program",
+      "redirectURL": "/referral-program",
       "openInNewTab": false,
       "indianExchangeCard": true
     },
@@ -108,7 +108,7 @@
       "type": "Refer_Earn",
       "analyticsTag": "Refer_Earn",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/RE_dei_dark.png?updatedAt=1717674618668",
-      "redirectURL": "https://india.delta.exchange/referral-program",
+      "redirectURL": "/referral-program",
       "openInNewTab": false,
       "theme": "indian_dark",
       "indianExchangeCard": true
@@ -117,7 +117,7 @@
       "type": "Refer_Earn",
       "analyticsTag": "Refer_Earn",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/RE_dei_light.png?updatedAt=1717674618696",
-      "redirectURL": "https://india.delta.exchange/referral-program",
+      "redirectURL": "/referral-program",
       "openInNewTab": false,
       "theme": "indian_light",
       "indianExchangeCard": true
