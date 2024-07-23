@@ -26,6 +26,24 @@
       "indianExchangeCard": true
     },
     {
+      "type": "BTC Futures Scalper",
+      "analyticsTag": "BTC Futures Scalper",
+      "imageURL": "https://static.delta.exchange/common/images/banners/scalper-offer/ScalperOfferDesktop.png?updatedAt=1721738368038",
+      "redirectURL": "/app/login",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "preLogin"
+    },
+    {
+      "type": "BTC Futures Scalper",
+      "analyticsTag": "BTC Futures Scalper",
+      "imageURL": "https://static.delta.exchange/common/images/banners/scalper-offer/ScalperOfferDesktop.png?updatedAt=1721738368038",
+      "redirectURL": "/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "Signal Trading",
       "analyticsTag": "Signal Trading",
       "imageURL": "https://static.delta.exchange/web/Markets-Page/SignalTrading_dei_web.png?updatedAt=1717486590689",
@@ -84,6 +102,24 @@
           }
         }
       },
+      "indianExchangeCard": true
+    },
+    {
+      "type": "BTC Futures Scalper",
+      "analyticsTag": "BTC Futures Scalper",
+      "imageURL": "https://static.delta.exchange/common/images/banners/scalper-offer/ScalperOfferDarkMobile.png?updatedAt=1721738368196",
+      "redirectURL": "/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "theme": "indian_dark",
+      "indianExchangeCard": true
+    },
+    {
+      "type": "BTC Futures Scalper",
+      "analyticsTag": "BTC Futures Scalper",
+      "imageURL": "https://static.delta.exchange/common/images/banners/scalper-offer/ScalperOfferLightMobile.png?updatedAt=1721738368126",
+      "redirectURL": "/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "theme": "indian_light",
       "indianExchangeCard": true
     },
     {
