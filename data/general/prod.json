@@ -8,9 +8,9 @@
   },
   "depositMaintenance": {
     "maintenanceDetails": {
-      "startTime": "2024-07-21T18:30:00Z",
-      "endTime": "2024-07-22T07:30:00Z",
-      "showBanner": true
+      "startTime": "2024-08-03T18:30:00Z",
+      "endTime": "2024-08-03T021:30:00Z",
+      "showBanner": false
     }
   }
 }
