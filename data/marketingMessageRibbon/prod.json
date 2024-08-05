@@ -1,15 +1,15 @@
 [
   {
-    "name": "paymentPartnerDown25June",
-    "type": "warn",
+    "name": "bankDown06Aug",
+    "type": "information",
     "heading": "Notice",
-    "message": "Our payment partner will undergo maintenance on 25 June 2024 from 2am to 2:45am. Deposits & Withdrawals will be unavailable during this time.",
+    "message": "Deposits via UPI using your whitelisted UPI ID will be credited. IMPS service is currently down at the bank's end.",
     "landingPathnames": null,
     "showWhenLogin": "postLogin",
     "remainVisible": true,
     "displayTime": {
       "start": "2024-06-21T09:30:00Z",
-      "end": "2024-06-24T21:15:00Z"
+      "end": "2024-08-06T11:30:00Z"
     }
   }
 ]
