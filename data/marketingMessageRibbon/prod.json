@@ -6,7 +6,7 @@
     "message": "Deposits via UPI using your whitelisted UPI ID will be credited. IMPS service is currently down at the bank's end.",
     "landingPathnames": null,
     "showWhenLogin": "postLogin",
-    "remainVisible": true,
+    "remainVisible": false,
     "displayTime": {
       "start": "2024-06-21T09:30:00Z",
       "end": "2024-08-06T00:00:00Z"
