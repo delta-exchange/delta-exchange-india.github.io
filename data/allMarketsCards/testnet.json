@@ -1,26 +1,11 @@
 {
   "desktop": [
     {
-      "type": "personalizedAssetCard",
-      "analyticsTag": "Freedom Sale 24",
-      "meta": {
-        "bannerLinks": {
-          "indian_dark": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
-          "indian_light": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png"
-        },
-        "bannerDates": {
-          "offerEndDate": "2024-08-31T18:30:00+00:00"
-        }
-      },
-      "redirectURL": "https://india.delta.exchange/app/options_chain/markets",
-      "indianExchangeCard": true
-    },
-    {
       "type": "depositBonusCard",
       "analyticsTag": "Freedom Sale 24",
       "imageURL": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
-      "redirectURL": "https://india.delta.exchange/app/options_chain/markets",
-      "openInNewTab": true,
+      "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
       "indianExchangeCard": true
     },
     {
@@ -102,6 +87,14 @@
     }
   ],
   "mobile": [
+    {
+      "type": "depositBonusCard",
+      "analyticsTag": "Freedom Sale 24",
+      "imageURL": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Mobile.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
