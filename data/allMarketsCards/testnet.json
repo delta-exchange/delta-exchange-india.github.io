@@ -5,8 +5,8 @@
       "analyticsTag": "Freedom Sale 24",
       "meta": {
         "bannerLinks": {
-          "dark": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
-          "light": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png"
+          "indian_dark": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
+          "indian_light": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png"
         },
         "bannerDates": {
           "offerEndDate": "2024-08-31T18:30:00+00:00"
