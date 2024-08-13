@@ -5,7 +5,6 @@
       "analyticsTag": "Freedom Sale 24",
       "imageURL": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
       "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
-      "openInNewTab": false,
       "indianExchangeCard": true
     },
     {
