@@ -12,7 +12,8 @@
           "offerEndDate": "2024-08-31T18:30:00+00:00"
         }
       },
-      "redirectURL": "https://www.delta.exchange/blog/enjoy-0-fee-trading"
+      "redirectURL": "https://www.delta.exchange/blog/enjoy-0-fee-trading",
+      "indianExchangeCard": true
     },
     {
       "type": "milestoneOffer",
