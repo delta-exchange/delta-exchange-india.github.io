@@ -1,6 +1,20 @@
 {
   "desktop": [
     {
+      "type": "personalizedAssetCard",
+      "analyticsTag": "Freedom Sale 24",
+      "meta": {
+        "bannerLinks": {
+          "dark": "https://static.delta.exchange/common/images/banners/Inactive_Web.png",
+          "light": "https://static.delta.exchange/common/images/banners/Inactive_Web.png"
+        },
+        "bannerDates": {
+          "offerEndDate": "2024-08-31T18:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://www.delta.exchange/blog/enjoy-0-fee-trading"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
