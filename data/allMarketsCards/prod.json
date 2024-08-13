@@ -1,6 +1,15 @@
 {
   "desktop": [
     {
+      "type": "depositBonusCard",
+      "analyticsTag": "Freedom Sale 24",
+      "imageURL": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
+      "redirectURL": "https://india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -61,6 +70,15 @@
     }
   ],
   "mobile": [
+    {
+      "type": "depositBonusCard",
+      "analyticsTag": "Freedom Sale 24",
+      "imageURL": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Mobile.png",
+      "redirectURL": "https://india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
