@@ -5,14 +5,22 @@
       "analyticsTag": "Freedom Sale 24",
       "meta": {
         "bannerLinks": {
-          "dark": "https://static.delta.exchange/common/images/banners/Inactive_Web.png",
-          "light": "https://static.delta.exchange/common/images/banners/Inactive_Web.png"
+          "dark": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
+          "light": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png"
         },
         "bannerDates": {
           "offerEndDate": "2024-08-31T18:30:00+00:00"
         }
       },
-      "redirectURL": "https://www.delta.exchange/blog/enjoy-0-fee-trading",
+      "redirectURL": "https://india.delta.exchange/app/options_chain/markets",
+      "indianExchangeCard": true
+    },
+    {
+      "type": "depositBonusCard",
+      "analyticsTag": "Freedom Sale 24",
+      "imageURL": "https://static.delta.exchange/common/images/banners/freedom-sale-24/Desktop.png",
+      "redirectURL": "https://india.delta.exchange/app/options_chain/markets",
+      "openInNewTab": true,
       "indianExchangeCard": true
     },
     {
