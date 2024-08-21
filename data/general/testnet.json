@@ -20,7 +20,7 @@
     "upiMaintenanceDetails": {
       "startTime": "2024-08-21T07:00:00Z",
       "endTime": "2024-08-22T10:30:00Z",
-      "showBanner": false
+      "showBanner": true
     }
   }
 }
