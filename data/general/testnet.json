@@ -11,6 +11,16 @@
       "startTime": "2024-07-23T09:30:00Z",
       "endTime": "2024-07-23T11:30:00Z",
       "showBanner": true
+    },
+    "neokredMaintenanceDetails": {
+      "startTime": "2024-08-21T11:15:00Z",
+      "endTime": "2024-08-21T14:00:00Z",
+      "showBanner": true
+    },
+    "upiMaintenanceDetails": {
+      "startTime": "2024-08-21T11:15:00Z",
+      "endTime": "2024-08-21T14:00:00Z",
+      "showBanner": true
     }
   }
 }
