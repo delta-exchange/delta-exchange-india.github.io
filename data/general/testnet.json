@@ -24,7 +24,7 @@
     }
   },
   "shareCardData":{
-   "offerText":"Get upto $100 in bonus",
-   "discountAmount":10
-  }
+    "offerText":"Get upto INR 5000 in bonus",
+    "discountAmount":"10%"
+   }
 }
