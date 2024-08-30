@@ -1,15 +1,11 @@
 [
   {
-    "name": "paymentPartnerDown25June",
-    "type": "warn",
-    "heading": "Notice",
-    "message": "Our payment partner will undergo maintenance on 25 June 2024 from 2am to 2:45am. Deposits & Withdrawals will be unavailable during this time.",
-    "landingPathnames": null,
-    "showWhenLogin": "postLogin",
-    "remainVisible": true,
-    "displayTime": {
-      "start": "2024-06-21T09:30:00Z",
-      "end": "2024-06-24T21:15:00Z"
+    "name": "phishingInfo",
+    "type": "info",
+    "heading": "Stay Safe",
+    "landingPathnames": [{ "path": "/" }],
+    "message": "Trust Only Verified Delta Exchange URLs and official Support to avoid scams",
+    "redirectionLink": "https://deltaexchangeindia.freshdesk.com/support/solutions/articles/80001151954-beware-of-phishing-scams",
+    "openInNewTab": true
     }
-  }
 ]
