@@ -6,6 +6,7 @@
     "landingPathnames": [{ "path": "/" }],
     "message": "Trust Only Verified Delta Exchange URLs and official Support to avoid scams",
     "redirectionLink": "https://deltaexchangeindia.freshdesk.com/support/solutions/articles/80001151954-beware-of-phishing-scams",
-    "openInNewTab": true
-    }
+    "openInNewTab": true,
+    "showWhenLogin": "preLogin"
+  }
 ]
