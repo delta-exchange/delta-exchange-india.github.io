@@ -1,7 +1,7 @@
 [
   {
     "name": "phishingInfo",
-    "type": "info",
+    "type": "success",
     "heading": "Stay Safe",
     "landingPathnames": [{ "path": "/" }],
     "message": "Trust Only Verified Delta Exchange URLs and official Support to avoid scams",
