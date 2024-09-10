@@ -99,6 +99,16 @@
       "theme": "indian_dark"
     },
     {
+      "type": "depositBonusCard",
+      "analyticsTag": "Freedom Sale 24",
+      "imageURL": "https://static.delta.exchange/common/images/banners/september-offer/mobile-light.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin",
+      "theme": "indian_light"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
