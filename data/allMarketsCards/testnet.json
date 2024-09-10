@@ -95,7 +95,8 @@
       "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": false,
       "indianExchangeCard": true,
-      "showWhenLogin": "postLogin"
+      "showWhenLogin": "postLogin",
+      "theme": "indian_dark"
     },
     {
       "type": "milestoneOffer",
