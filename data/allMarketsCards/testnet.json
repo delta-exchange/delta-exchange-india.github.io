@@ -1,6 +1,15 @@
 {
   "desktop": [
     {
+      "type": "depositBonusCard",
+      "analyticsTag": "Septemper Offer",
+      "imageURL": "https://static.delta.exchange/common/images/banners/september-offer/dark-desktop.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -79,6 +88,15 @@
     }
   ],
   "mobile": [
+    {
+      "type": "depositBonusCard",
+      "analyticsTag": "Freedom Sale 24",
+      "imageURL": "https://static.delta.exchange/common/images/banners/september-offer/mobile-dark.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin"
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
