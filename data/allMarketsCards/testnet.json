@@ -2,12 +2,23 @@
   "desktop": [
     {
       "type": "depositBonusCard",
-      "analyticsTag": "Septemper Offer",
-      "imageURL": "https://static.delta.exchange/common/images/banners/september-offer/dark-desktop.png",
+      "analyticsTag": "Septemper Fee Offer",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/sep-fee-desktop-light.png",
       "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": false,
       "indianExchangeCard": true,
-      "showWhenLogin": "postLogin"
+      "showWhenLogin": "postLogin",
+      "theme": "indian_light"
+    },
+    {
+      "type": "depositBonusCard",
+      "analyticsTag": "Septemper Fee Offer",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/sep-fee-desktop-dark.png",
+      "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "indianExchangeCard": true,
+      "showWhenLogin": "postLogin",
+      "theme": "indian_dark"
     },
     {
       "type": "milestoneOffer",
@@ -90,8 +101,8 @@
   "mobile": [
     {
       "type": "depositBonusCard",
-      "analyticsTag": "Freedom Sale 24",
-      "imageURL": "https://static.delta.exchange/common/images/banners/september-offer/mobile-dark.png",
+      "analyticsTag": "Septemper Fee Offer",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/sep-fee-mobile-dark.png",
       "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": false,
       "indianExchangeCard": true,
@@ -100,8 +111,8 @@
     },
     {
       "type": "depositBonusCard",
-      "analyticsTag": "Freedom Sale 24",
-      "imageURL": "https://static.delta.exchange/common/images/banners/september-offer/mobile-light.png",
+      "analyticsTag": "Septemper Fee Offer",
+      "imageURL": "https://static.delta.exchange/web/Markets-Page/sep-fee-mobile-light.png",
       "redirectURL": "https://testnet-india.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": false,
       "indianExchangeCard": true,
